@@ -1,0 +1,15 @@
+{
+    "StockDetails":
+    [
+        {
+            "stock_Name":"Doge",
+            "number_Of_Share":50.5,
+            "share_Price":300.2
+        }, 
+        {   
+            "stock_Name":"BTT",
+            "number_Of_Share":30.2,
+            "share_Price":4000.6
+        }
+    ]
+}

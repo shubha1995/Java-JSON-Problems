@@ -1,0 +1,19 @@
+{
+	"Itemlist": [
+		{
+			"item_Name": "Rice",
+			"weight": 2.5,
+			"price": 40.5
+		},
+		{
+			"item_Name": "wheat",
+			"weight": 1.2,
+			"price": 60.3
+		},
+		{
+			"item_Name": "pulses",
+			"weight": 1.5,
+			"price": 50.55
+		}
+	]
+}
